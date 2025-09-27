@@ -1,3 +1,4 @@
+// an example code Class in Javascript
 class Human {
   constructor(name, age) {
     this.name = name;
@@ -10,3 +11,4 @@ class Human {
 }
 const student = new Human("Tumilara", 18);
 student.greet();
+
